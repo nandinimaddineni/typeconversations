@@ -1,0 +1,15 @@
+public class Main{
+    public static void main(String[] args){
+        byte b=10;
+        int i=324;
+        float f=123.4f;
+        short s=23;
+        long l=123456;
+        
+      
+        boolean bl=true;
+        
+        i=b;
+        System.out.println(i);
+    }
+}
